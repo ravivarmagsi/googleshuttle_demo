@@ -6,6 +6,9 @@
 |-----------------------------------------|
 
 ## Please fill in your project documentation in this README.md file 
+Demonstration of the fully open FABulous eFPGA using the OpenLane flow.
+
+This repo experiments an implementation of an eFPGA from RTL to GDS with open Skywater-130 PDK. 
 
 Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of how to use caravel_user_project
 
